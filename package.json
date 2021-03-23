@@ -1,7 +1,7 @@
 {
     "scripts": {
         "render": "tsc && node dist/render.js",
-        "watch": "watch 'yarn render' ./src --interval=0.1",
+        "watch": "watch 'yarn render' ./src --interval=0.1"
     },
     "dependencies": {
         "@types/node": "^14.0.4",
